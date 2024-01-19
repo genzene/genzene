@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, JavaScript and some of its frameworks
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 50 new colors were made in the making of the anime "Akira"
 
 <!---
 ZedCord0/ZedCord0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
